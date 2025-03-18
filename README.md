@@ -117,6 +117,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with ❤️ by [Manoj](https://github.com/ManojSurulivel/Todolist-Typescript.git)
+Made with ❤️ by [Manoj](https://github.com/ManojSurulivel)
 ```
 
