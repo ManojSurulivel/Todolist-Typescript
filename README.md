@@ -7,8 +7,6 @@ Here’s a sample `README.md` file for your **TypeScript React Todo List** proje
 
 A simple Todo List application built with **React** and **TypeScript**. This project demonstrates how to use TypeScript with React to create a type-safe and scalable application.
 
-![Todo List Screenshot](screenshot.png) <!-- Add a screenshot if you have one -->
-
 ## Features
 
 - Add new todos.
